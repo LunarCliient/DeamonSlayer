@@ -1,6 +1,6 @@
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local objs = game:GetObjects("rbxassetid://16969463238")
+local objs = game:GetObjects("rbxassetid://18144158427")
 local Workspace = game:GetService("Workspace")
 objs[1].Parent = game:GetService("ReplicatedStorage")
 
